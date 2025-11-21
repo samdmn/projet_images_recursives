@@ -48,7 +48,7 @@ Clonez ce dépôt et lancez le programme :
 
 ```bash
 git clone https://github.com/samdmn/images-recursives.git
-cd images-recursives
+cd images-recursives/projet-ap-images-recursives
 python3 images_recursives.py images/calbuth.png 5
 ```
 
